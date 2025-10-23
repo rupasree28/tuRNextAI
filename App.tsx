@@ -1,5 +1,5 @@
 import React, { useState, useCallback, useEffect } from 'react';
-import NeuroLearnScreen from './components/AdjustmentPanel';
+import AdjustmentPanel from './components/AdjustmentPanel';
 import SparkIQScreen from './components/FilterPanel';
 import StartScreen from './components/StartScreen';
 import SplashScreen from './components/SplashScreen';
