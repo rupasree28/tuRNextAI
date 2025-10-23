@@ -1,0 +1,8 @@
+{
+  "name": "Copy of tuRNextAI Prototype Model",
+  "description": "An inclusive learning and creativity app. EduAssist simplifies classroom content for hearing-impaired students and slow learners, while ThinkBot builds critical thinking skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
